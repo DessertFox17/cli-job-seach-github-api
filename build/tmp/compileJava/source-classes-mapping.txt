@@ -1,0 +1,19 @@
+jobsearch/cli/CLIHelpValidator.java
+ jobsearch.cli.CLIHelpValidator
+jobsearch/JobSearch.java
+ jobsearch.JobSearch
+jobsearch/api/APIFunctions.java
+ jobsearch.api.APIFunctions
+jobsearch/cli/CLIFunctions.java
+ jobsearch.cli.CLIFunctions
+jobsearch/cli/CLIArguments.java
+ jobsearch.cli.CLIArguments
+jobsearch/cli/CLIKeywordValidator.java
+ jobsearch.cli.CLIKeywordValidator
+jobsearch/CommanderFunctions.java
+ jobsearch.CommanderFunctions
+ jobsearch.CommanderFunctions$OnCommandError
+jobsearch/api/JobsAPI.java
+ jobsearch.api.JobsAPI
+jobsearch/JobPosition.java
+ jobsearch.JobPosition

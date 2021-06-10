@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.81" level="project" />
+    <orderEntry type="library" name="Gradle: io.github.openfeign:feign-gson:11.2" level="project" />
+    <orderEntry type="library" name="Gradle: io.github.openfeign:feign-core:11.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.projectlombok:lombok:1.18.18" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.5" level="project" />
+  </component>
+</module>
